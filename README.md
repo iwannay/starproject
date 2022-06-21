@@ -24,3 +24,10 @@
 | -------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------- |
 | [https://github.com/thanos-io/thanos](https://github.com/thanos-io/thanos) | Golang   | Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. |
 | [https://github.com/open-telemetry](https://github.com/open-telemetry)     | Golang   | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software.       |
+
+## 云原生
+
+
+| 仓库地址                                                               | 开发语言 | 项目介绍                          |
+| ---------------------------------------------------------------------- | -------- | --------------------------------- |
+| [https://github.com/labring/sealos](https://github.com/labring/sealos) | Golang   | kubernetes-kernel-based cloud os. |
