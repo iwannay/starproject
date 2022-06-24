@@ -28,6 +28,7 @@
 ## 云原生
 
 
-| 仓库地址                                                               | 开发语言 | 项目介绍                          |
-| ---------------------------------------------------------------------- | -------- | --------------------------------- |
-| [https://github.com/labring/sealos](https://github.com/labring/sealos) | Golang   | kubernetes-kernel-based cloud os. |
+| 仓库地址                                                               | 开发语言 | 项目介绍                                                                                               |
+| ---------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ |
+| [https://github.com/labring/sealos](https://github.com/labring/sealos) | Golang   | kubernetes-kernel-based cloud os.                                                                      |
+| https://github.com/dapr/dapr                                           | Golang   | Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. |
